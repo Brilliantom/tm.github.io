@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub 
 
 You can use the [editor on GitHub](https://github.com/Brilliantom/tm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 每当您提交此存储库时，GitHub Pages将运行[Jekyll] （https://jekyllrb.com/）从Markdown文件中的内容重建站点中的页面。
-1
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
